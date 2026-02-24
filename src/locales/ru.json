@@ -1081,7 +1081,7 @@
         "flow": "Поток",
         "regime": "Режим",
         "btcTrend": "Тренд BTC",
-        "hashRate": "Hash Rate",
+        "hashRate": "hrate",
         "mining": "Майнинг",
         "fearGreed": "Страх &amp; Жадность"
       }

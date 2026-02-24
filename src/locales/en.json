@@ -1208,7 +1208,7 @@
         "flow": "Flow",
         "regime": "Regime",
         "btcTrend": "BTC Trend",
-        "hashRate": "Hash Rate",
+        "hashRate": "hrate",
         "mining": "Mining",
         "fearGreed": "Fear & Greed"
       }
